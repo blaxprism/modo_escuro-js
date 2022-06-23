@@ -7,7 +7,7 @@ Alterna do modo claro para o escuro e vice-versa
     Texto aleatóriamente escolhido
   <h3>main.css<h3/>
     Estiliza o HTML e cria as variáveis que são utilizadas pelo JS
-   <h3>app.js<h3/>
+  <h3>app.js<h3/>
     Usa as variáveis do CSS e as altera no html
     
 
